@@ -2,7 +2,7 @@
 
 Thanks for visiting my GitHub! I'm a junior UI Developer with a strong passion for programming. I specialize in creating user interfaces for FiveM scripts and am constantly learning and improving, always eager to take on new challenges and grow in my field.
 
-- 🔧 My Expertise
+- 🔧 My Expertise:
 - 🟢 Beginner HTML/CSS
 - 🟠 Beginner JavaScript
 
